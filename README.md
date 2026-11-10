@@ -1,9 +1,9 @@
-Análisis y predicción horaria de PM2.5 en Lima mediante Python, Machine Learning, SQL Server y Power BI.
+## Análisis y predicción horaria de PM2.5 en Lima mediante Python, Machine Learning, SQL Server y Power BI.
 
 
-Análisis y predicción de la calidad del aire en Lima
+## Análisis y predicción de la calidad del aire en Lima
 
-##Descripción
+## Descripción
 
 Proyecto de análisis de datos y Machine Learning enfocado en estudiar la contaminación atmosférica por material particulado fino (PM2.5) en Lima, Perú.
 

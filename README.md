@@ -27,6 +27,16 @@ El objetivo principal fue identificar patrones de contaminación y desarrollar u
 6. Análisis mediante SQL Server.
 7. Construcción de dashboards interactivos en Power BI.
 
+## Visualizaciones en Power BI
+
+### 1. Análisis histórico de contaminación
+
+![Dashboard de contaminación](dashboard/dashboard%20CALIDAD%20DE%20AIRE%20LIMA.png)
+
+### 2. Evaluación de modelos predictivos
+
+![Dashboard de Machine Learning](dashboard/dashboard%20EVALUACION%20DE%20MODELO%20PREDICTIVO.png)
+
 ## Resultados del Machine Learning
 
 Se compararon cuatro enfoques para predecir PM2.5 una hora después.
